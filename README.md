@@ -130,6 +130,8 @@ This demo reflects that style of work by showing how AI can be embedded into a p
 
 ### Author
 
-Aishwarya Yogananda
+Aishwarya Mandya Yogananda
+
 MS in Computer Science, Binghamton University
+
 Graduating May 2026
