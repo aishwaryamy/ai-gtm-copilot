@@ -80,6 +80,7 @@ Lead Input → AI Company Research → AI Account Brief → Outreach Generation 
 ### 1. Clone the repo
 
 git clone https://github.com/aishwaryamy/ai-gtm-copilot.git
+
 cd ai-gtm-copilot
 
 ### 2. Create a virtual environment
@@ -119,13 +120,13 @@ This demo reflects that style of work by showing how AI can be embedded into a p
 
 ### Demo Screenshots
 
-! [](screenshots/screenshot1.png)
+![](screenshots/screenshot1.png)
 
-! [](screenshots/screenshot2.png)
+![](screenshots/screenshot2.png)
 
-! [](screenshots/screenshot3.png)
+![](screenshots/screenshot3.png)
 
-! [](screenshots/screenshot4.png)
+![](screenshots/screenshot4.png)
 
 ### Author
 
