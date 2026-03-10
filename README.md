@@ -1,6 +1,8 @@
-# AI GTM Copilot – Forward Deployed Engineering Demo
+# AI GTM Copilot – AI-Powered CRM Workflow Prototype
 
-A lightweight AI-native CRM workflow prototype that demonstrates how a Forward Deployed Engineer can rapidly build customer-facing AI solutions for GTM teams.
+AI GTM Copilot is a lightweight AI-powered CRM workflow prototype designed to automate account research, lead qualification, and outreach generation for go-to-market teams.
+
+The application demonstrates how AI can streamline common sales workflows by generating company research, personalized outreach messages, and recommended next steps while storing leads in a simple CRM-style database.
 
 ## Overview
 
@@ -114,9 +116,9 @@ If no API key is provided, you can still adapt the app for mock-output demo mode
 
 ### Why I Built This
 
-Forward Deployed Engineers often work at the intersection of product, engineering, AI workflows, and customer deployment.
+Modern go-to-market teams rely on many fragmented tools for account research, lead qualification, and outreach preparation. These processes often involve repetitive manual work.
 
-This demo reflects that style of work by showing how AI can be embedded into a practical GTM workflow to improve lead qualification, account understanding, and sales execution.
+This project explores how AI can automate parts of these workflows by combining company research, lead scoring, outreach generation, and CRM-style record management into a single application.
 
 ### Demo Screenshots
 
@@ -127,6 +129,10 @@ This demo reflects that style of work by showing how AI can be embedded into a p
 ![](screenshots/screenshot3.png)
 
 ![](screenshots/screenshot4.png)
+
+## Example Use Case
+
+Sales teams often spend significant time researching companies and preparing outreach messages. This tool demonstrates how AI can automate parts of this workflow by generating structured company insights, drafting outreach emails, and storing lead records in a CRM-style system.
 
 ### Author
 

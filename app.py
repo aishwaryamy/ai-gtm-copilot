@@ -382,4 +382,4 @@ with tab2:
         )
 
 st.markdown("---")
-st.caption("Built as a demo for a Forward Deployed Engineer-style workflow: lead intake → AI analysis → outreach → CRM tracking.")
+st.caption("AI-powered workflow prototype for account research, outreach generation, and CRM lead management.")
